@@ -15,5 +15,7 @@ Voici un mot en ***gras et en italique***
 > 
 > lignes.
 
-
+1. item n°1
+2. item n°2
+3. item n°3
 
