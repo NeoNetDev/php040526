@@ -5,6 +5,8 @@
 ##### Titre de niveau 5
 ###### Titre de niveau 6
 
+***
+
 Voici un mot en *italique* et en **gras**
 
 Voici un mot en ***gras et en italique***
@@ -14,12 +16,17 @@ Voici un mot en ***gras et en italique***
 > sur plusieurs
 > 
 > lignes.
+>
+
+***
 
 **Liste ordonnée :**
 
 1. item n°1
 2. item n°2
 3. item n°3
+
+***
 
 **Liste non ordonnée :**
 
@@ -29,11 +36,17 @@ Voici un mot en ***gras et en italique***
 * item n°2
 * item n°3
 
+***
+
 **Images :**
 
 ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/langfr-330px-Markdown-mark.svg.png)
 
+***
 
+**Liens :**
+
+[lien vers google.com](https://www.google.com/)
 
 
 
