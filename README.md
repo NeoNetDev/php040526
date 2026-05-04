@@ -15,14 +15,23 @@ Voici un mot en ***gras et en italique***
 > 
 > lignes.
 
+**Liste ordonnée :**
+
 1. item n°1
 2. item n°2
 3. item n°3
+
+**Liste non ordonnée :**
 
 * item n°1
   * item 1.1
     * item 1.1.1   
 * item n°2
 * item n°3
+
+**Images :**
+
+![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/langfr-330px-Markdown-mark.svg.png)
+
 
 
