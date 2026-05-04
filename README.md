@@ -6,4 +6,5 @@
 ###### Titre de niveau 6
 
 Voici un mot en *italique* et en **gras**
+
 Voici un mot en ***gras et en italique***
