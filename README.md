@@ -48,5 +48,14 @@ Voici un mot en ***gras et en italique***
 
 [lien vers google.com](https://www.google.com/)
 
+***
+
+**Tableaux :**
+
+| Colonne A | Colonne B | Colonne C |
+|-----------|:---------:|----------:|
+| gauche    | centré    | droite    |
+| ligne 2   | données   | 42        |
+
 
 
