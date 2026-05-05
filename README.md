@@ -59,5 +59,15 @@ Voici un bout de code : `<p>paragraphe</p>`
 | gauche    | centré    | droite    |
 | ligne 2   | données   | 42        |
 
+***Bloc de code :***
+
+```php
+<?php
+echo "bonjour";
+?>
+```
+
+
+
 
 
